@@ -2,7 +2,7 @@
 
 A console-based **Student & Course Management System** built with Core Java. Admins can manage students, courses, and enrollments through a menu-driven terminal interface. All data is stored in memory using `ArrayList`.
 
-**Repository:** [github.com/anjali-venugopal/Java](https://github.com/anjali-venugopal/Java)
+**Repository:** [github.com/anjali-venugopal/LearnTrack-Submission](https://github.com/anjali-venugopal/LearnTrack-Submission)
 
 ## Features
 
